@@ -161,6 +161,4 @@ This project demonstrates how HR Analytics can be used to:
 **Priya Gowri B M**
 
 Aspiring Data Analyst | Power BI Developer | Python Enthusiast
-
-LinkedIn: Add Your LinkedIn URL
 GitHub: https://github.com/ppriyagowri-sudo
